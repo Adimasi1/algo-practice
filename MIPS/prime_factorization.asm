@@ -96,7 +96,7 @@ loop_factors:
     	sw $t1, 0($t5)
 
     	div $t3, $t3, $t1                  	# n = n / p
-    	add $t0, $t0, 1                   	# factor count++
+    	add $t0, $t0, 1                   	# increase factor count 
     	j loop_factors                     	# test same p again
 
 next_p:
