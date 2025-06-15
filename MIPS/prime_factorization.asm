@@ -2,7 +2,7 @@
 # Program: Prime Factorization
 # Author: Andrea Di Masi
 # Description:
-# 	This MIPS assembly program reads a positive integer `n` from
+# 	This MIPS assembly program reads a positive integer 'n' from
 # 	user input and computes its prime factorization.
 #
 #   	The program finds all prime numbers (including duplicates) that
