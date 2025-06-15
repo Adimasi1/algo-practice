@@ -1,7 +1,7 @@
 # algo-practice
 A collection of programming exercises, projects, and experiments in multiple languages.
 
-# MIPS
+## MIPS
 These programs are written in MIPS assembly language, developed and tested using the MARS simulator (MIPS Assembler and Runtime Simulator). Each program demonstrates low-level control and computational logic, useful for understanding computer architecture and machine-level programming.
 
 Contents:
